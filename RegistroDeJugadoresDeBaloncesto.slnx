@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../RegistroDeJugadoresDeBaloncesto2/RegistroDeJugadoresDeBaloncesto2.csproj" />
   <Project Path="RegistroDeJugadoresDeBaloncesto.csproj" />
+  <Project Path="RegistroDeJugadoresDeBaloncesto2/RegistroDeJugadoresDeBaloncesto2.csproj" />
 </Solution>

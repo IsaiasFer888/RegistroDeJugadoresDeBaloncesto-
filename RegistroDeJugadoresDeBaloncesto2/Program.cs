@@ -1,4 +1,6 @@
 ﻿
+using Microsoft.Data.SqlClient;
+using RegistroDeJugadoresDeBaloncesto2.Data;
 using RegistroJugadoresBaloncestoPOO.Helpers;
 
 Console.WriteLine("==================================");

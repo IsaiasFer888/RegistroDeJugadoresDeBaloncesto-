@@ -1,5 +1,4 @@
-﻿
-namespace RegistroJugadoresBaloncestoPOO.Models;
+﻿namespace RegistroJugadoresBaloncestoPOO.Models;
 
 public class Jugador
 {
